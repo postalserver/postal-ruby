@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    appmail (0.0.1)
+      moonrope-client (>= 1.0.2, < 1.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.3)
+    moonrope-client (1.0.2)
+      json (~> 1.8, >= 1.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  appmail!
+
+BUNDLED WITH
+   1.13.0
