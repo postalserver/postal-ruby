@@ -6,10 +6,10 @@ It is very easy to get up and running with this library. Just follow the instruc
 
 ## Installation
 
-Add the `postal` gem to your Gemfile and run `bundle install` to install it.
+Add the `postal-ruby` gem to your Gemfile and run `bundle install` to install it.
 
 ```ruby
-gem 'postal', '~> 1.0'
+gem 'postal-ruby', '~> 1.0'
 ```
 
 ## Configuration

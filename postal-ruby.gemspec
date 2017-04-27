@@ -1,7 +1,7 @@
 require File.expand_path('../lib/postal/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name          = "postal"
+  s.name          = "postal-ruby"
   s.description   = %q{Ruby library for the Postal e-mail platform}
   s.summary       = s.description
   s.homepage      = "https://github.com/atech/postal"
