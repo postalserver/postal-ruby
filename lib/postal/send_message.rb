@@ -48,7 +48,7 @@ module Postal
     end
 
     def tag(tag)
-      @attributes[:tag] = subject
+      @attributes[:tag] = tag
     end
 
     def reply_to(reply_to)
