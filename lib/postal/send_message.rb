@@ -52,7 +52,7 @@ module Postal
     end
 
     def reply_to(reply_to)
-      @attributes[:reply_to] = subject
+      @attributes[:reply_to] = reply_to
     end
 
     def plain_body(content)
