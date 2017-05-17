@@ -20,7 +20,7 @@ In order to send messages, you'll need a Server API key. You can generate one of
 
 ```ruby
 Postal.configure do |c|
-  c.host = "https://postal.yourdomain.com"
+  c.host = "postal.yourdomain.com"
   c.server_key = "DgJyr0BxvxITaaa"
 end
 ```
